@@ -1,0 +1,20 @@
+{
+  "itemList": [
+    {
+      "name": "mleko",
+      "price": "3",
+      "shop": "TESCO"
+    },
+    {
+      "name": "baton",
+      "price": "4",
+      "shop": "TESCO"
+    },
+    {
+      "name": "gruszki",
+      "price": "5",
+      "shop": "TESCO"
+    }
+  ],
+  "id": 1
+}
